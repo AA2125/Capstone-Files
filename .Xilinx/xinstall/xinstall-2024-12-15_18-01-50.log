@@ -1,0 +1,251 @@
+2024-12-15 18:01:51,139 DEBUG: h.b:-1 - Starting to listen
+2024-12-15 18:01:51,147 DEBUG: i.m:-1 - data/dynamic_resource_bundle.properties, does not exist
+2024-12-15 18:01:51,165 DEBUG: com.xilinx.installer.data.IDataManager:-1 - Checking to see if Serialized IDATA_LOCATION_FROM_USER is set.
+2024-12-15 18:01:51,166 DEBUG: com.xilinx.installer.data.IDataManager:-1 - Serialized idata file found, /tmp/selfgz113706327032/data/idata.ser.z
+2024-12-15 18:01:52,288 DEBUG: com.xilinx.installer.data.IDataManager:-1 - deserialized file: /tmp/selfgz113706327032/data/idata.ser.z in 0 min, 1 sec
+2024-12-15 18:01:52,298 DEBUG: com.xilinx.installer.data.IDataEltDecorator:-1 - Module Engineering Sample Devices selection cannot be changed by user for the selected Edition.
+2024-12-15 18:01:52,299 DEBUG: com.xilinx.installer.data.IDataEltDecorator:-1 - Module Engineering Sample Devices selection cannot be changed by user for the selected Edition.
+2024-12-15 18:01:52,299 DEBUG: com.xilinx.installer.data.IDataEltDecorator:-1 - Module Engineering Sample Devices selection cannot be changed by user for the selected Edition.
+2024-12-15 18:01:52,305 DEBUG: com.xilinx.installer.data.IDataEltDecorator:-1 - Module Engineering Sample Devices selection cannot be changed by user for the selected Edition.
+2024-12-15 18:01:52,306 DEBUG: com.xilinx.installer.data.IDataEltDecorator:-1 - Module Engineering Sample Devices selection cannot be changed by user for the selected Edition.
+2024-12-15 18:01:52,306 DEBUG: com.xilinx.installer.data.IDataEltDecorator:-1 - Module Engineering Sample Devices selection cannot be changed by user for the selected Edition.
+2024-12-15 18:01:52,309 DEBUG: com.xilinx.installer.data.IDataManager:-1 - Adjusted idata file: /tmp/selfgz113706327032/data/idata.ser.z in 28904761 min, 51 sec
+2024-12-15 18:01:52,311 DEBUG: com.xilinx.installer.data.postInst.a:-1 - This is a fresh installation, no installation data file found.
+2024-12-15 18:01:52,320 DEBUG: com.xilinx.installer.api.d:-1 - This is a fresh installation.
+2024-12-15 18:01:52,324 DEBUG: com.xilinx.installer.registry.lin.a:-1 - Uninstall reg: /home/a/.Xilinx/registry/installedSW.xml
+2024-12-15 18:01:52,335 DEBUG: com.xilinx.installer.api.d:-1 - Selected Product is: Vitis
+2024-12-15 18:01:52,335 DEBUG: com.xilinx.installer.api.d:-1 - Selected Package is: Vitis Unified Software Platform
+2024-12-15 18:01:52,336 DEBUG: com.xilinx.installer.api.e:-1 - load the archive content info file /tmp/selfgz113706327032/data/arc.dat
+2024-12-15 18:01:55,496 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)rdi_0346_2024.2_1113_1001
+2024-12-15 18:01:55,502 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)sdk_gnu_0009_2024.2_1113_1001
+2024-12-15 18:01:55,540 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)rdi_0520_2024.2_1113_1001
+2024-12-15 18:01:55,547 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)rdi_0766_2024.2_1113_1001
+2024-12-15 18:01:55,583 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)sdk_gnu_0010_2024.2_1113_1001
+2024-12-15 18:01:55,587 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)sdk_gnu_0026_2024.2_1113_1001
+2024-12-15 18:01:55,592 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)docnav_0004_2024.2_1113_1001
+2024-12-15 18:01:55,653 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)sdk_gnu_0012_2024.2_1113_1001
+2024-12-15 18:01:55,660 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)rdi_0140_2024.2_1113_1001
+2024-12-15 18:01:55,679 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)sdk_gnu_0011_2024.2_1113_1001
+2024-12-15 18:01:55,680 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)rdi_1120_2024.2_1113_1001
+2024-12-15 18:01:55,708 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)sdk_gnu_0042_2024.2_1113_1001
+2024-12-15 18:01:55,723 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)sdk_gnu_0003_2024.2_1113_1001
+2024-12-15 18:01:55,760 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)sdk_gnu_0008_2024.2_1113_1001
+2024-12-15 18:01:55,767 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)vitis_cplus_0002_2024.2_1113_1001
+2024-12-15 18:01:55,767 DEBUG: com.xilinx.installer.api.e:-1 - No archive content info for archive (listed but no details)rdi_0992_2024.2_1113_1001
+2024-12-15 18:01:55,775 DEBUG: com.xilinx.installer.api.e:-1 - Loaded archives content file in 0 min, 3 sec
+2024-12-15 18:01:55,840 DEBUG: com.xilinx.installer.api.e:-1 - PAYLOAD_LOCATION_FROM_USER is not set.
+2024-12-15 18:01:55,840 DEBUG: com.xilinx.installer.api.e:-1 - Payload was not found in the image, /tmp/selfgz113706327032/payload does NOT exist.
+2024-12-15 18:01:55,840 DEBUG: com.xilinx.installer.api.e:-1 - Payload location could not be set at this point.
+2024-12-15 18:01:55,841 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.WelcomePanel, refKey: WelcomePanel_Install
+2024-12-15 18:01:55,874 DEBUG: com.xilinx.installer.gui.panel.WelcomePanel:-1 - Welcome panel message is: <p>We are glad you have chosen AMD as your platform development partner. This program can install the AMD products including Vitis, Vivado Design Environment, Lab Edition, Bootgen, HW_Server, PetaLinux, Power Design Manager and Documentation Navigator.<p style="color:red;font-weight: bold;">Warning: you are running on an OS version that is not officially supported. AMD does not recommend installing on unsupported OSes. You can still proceed with the installation by clicking "Next"
+<p>Supported operating systems for 2024.2 are:<br><p>- Red Hat Enterprise Linux 7.9: 64-bit (Not supported for PetaLinux)<br>- Red Hat Enterprise Linux 8.8-8.10, 9.2-9.4: 64-bit (Not supported for PetaLinux)<br>- CentOS Linux 7.9: 64-bit (Not supported for PetaLinux)<br>- SUSE Enterprise Linux 15.4: 64-bit(Not supported for PetaLinux)<br>- Amazon Linux 2 AL2 LTS: 64-bit(Not supported for PetaLinux)<br>- Ubuntu Linux 20.04.5-20.04.6, 22.04.1-22.04.4, and 24.04 LTS: 64-bit.<br>- AlmaLinux 8.7, 8.10, 9.1, 9.4: 64-bit.</p></p>
+</p>
+<p>Note: Additional library installation required. Please review the <b>Checking Required Libraries</b> section of <b>UG973</b> for more details.</p>
+<p>Note: Individual products in this installer may support a smaller subset of this list. Please refer to the relevant User Guides for the latest OS information.</p>
+<p>Note: This release requires upgrading your license server tools to the Flex 11.17.2 versions. Please confirm with your license admin that the correct version of the license server tools are installed and available, before running the tools.</p>
+<p>Note: This installation program will not install cable drivers on Linux.  This item will need to be installed separately, with administrative privileges.</p>
+<p style="color:red">To reduce installation time, we recommend that you disable any anti-virus software before continuing. Please disable any power saving settings of your machine (automatic sleep mode) when running the installer.</p>
+ Supported OS: Supported operating systems for 2024.2 are:<br><p>- Red Hat Enterprise Linux 7.9: 64-bit (Not supported for PetaLinux)<br>- Red Hat Enterprise Linux 8.8-8.10, 9.2-9.4: 64-bit (Not supported for PetaLinux)<br>- CentOS Linux 7.9: 64-bit (Not supported for PetaLinux)<br>- SUSE Enterprise Linux 15.4: 64-bit(Not supported for PetaLinux)<br>- Amazon Linux 2 AL2 LTS: 64-bit(Not supported for PetaLinux)<br>- Ubuntu Linux 20.04.5-20.04.6, 22.04.1-22.04.4, and 24.04 LTS: 64-bit.<br>- AlmaLinux 8.7, 8.10, 9.1, 9.4: 64-bit.</p></p>
+
+2024-12-15 18:01:55,913 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.installtype.InstallationTypeTwoOptionsPanel, refKey: InstallationTypeWithLoginPanel_Install
+2024-12-15 18:01:56,019 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.packages.simple.ProductsPanel, refKey: ProductPanel_Install
+2024-12-15 18:01:56,173 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.packages.simple.PackagesPanel, refKey: PackagePanel_Install
+2024-12-15 18:01:56,251 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.packages.simple.ModulesPanel, refKey: ModulesPanel_Install
+2024-12-15 18:01:56,318 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=Scout_Product]]
+2024-12-15 18:01:56,318 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=Vitis_Cache]]
+2024-12-15 18:01:56,318 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=Vivado_for_Scout]]
+2024-12-15 18:01:56,318 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=Vitis_HLS]]
+2024-12-15 18:01:56,319 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=VitisNetP4_Option]]
+2024-12-15 18:01:56,319 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=SoCs_All_Devices_DevModule]]
+2024-12-15 18:01:56,319 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=7_Series_Devices_Edition_Merged]]
+2024-12-15 18:01:56,319 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=8_Series_Devices_Edition_Merged]]
+2024-12-15 18:01:56,319 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=UltraScale_Plus_All_Devices_DevModule]]
+2024-12-15 18:01:56,319 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=Versal_DevModule]]
+2024-12-15 18:01:56,327 DEBUG: n.j:-1 - Module: Vitis C++ dest: /tools/Xilinx/Vitis/2024.2/vcxx Archive numbers in module: 3 Total archive numbers: 3
+2024-12-15 18:01:56,327 DEBUG: n.j:-1 - Module: Vitis dest: /tools/Xilinx/Vitis/2024.2 Archive numbers in module: 327 Total archive numbers: 330
+2024-12-15 18:01:56,328 DEBUG: n.j:-1 - Module: Vivado dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 197 Total archive numbers: 527
+2024-12-15 18:01:56,328 DEBUG: n.j:-1 - Module: Vitis HLS dest: /tools/Xilinx/Vitis_HLS/2024.2 Archive numbers in module: 4 Total archive numbers: 531
+2024-12-15 18:01:56,328 DEBUG: n.j:-1 - Module: Adds Common Links dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 531
+2024-12-15 18:01:56,328 DEBUG: n.j:-1 - Module: System Generator dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 1 Total archive numbers: 532
+2024-12-15 18:01:56,328 DEBUG: n.j:-1 - Module: Model Composer dest: /tools/Xilinx/Model_Composer/2024.2 Archive numbers in module: 25 Total archive numbers: 557
+2024-12-15 18:01:56,328 DEBUG: n.j:-1 - Module: Vitis Model Composer(Toolbox for MATLAB and Simulink. Includes the functionality of System Generator for DSP) dest: /tools/Xilinx/Model_Composer/2024.2 Archive numbers in module: 0 Total archive numbers: 557
+2024-12-15 18:01:56,328 DEBUG: n.j:-1 - Module: DocNav dest: /tools/Xilinx/DocNav Archive numbers in module: 4 Total archive numbers: 561
+2024-12-15 18:01:56,328 DEBUG: n.j:-1 - Module: Xilinx Information Center dest: /tools/Xilinx/xic Archive numbers in module: 20 Total archive numbers: 581
+2024-12-15 18:01:56,329 DEBUG: n.j:-1 - Module: Devices for Alveo and edge acceleration platforms dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 116 Total archive numbers: 687
+2024-12-15 18:01:56,329 DEBUG: n.j:-1 - Module: Shared Data dest: /tools/Xilinx/SharedData/2024.2 Archive numbers in module: 304 Total archive numbers: 991
+2024-12-15 18:01:56,329 DEBUG: n.j:-1 - Module: Install devices for Alveo and edge acceleration platforms dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 991
+2024-12-15 18:01:56,329 DEBUG: n.j:-1 - Module: Install Devices for Kria SOMs and Starter Kits dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 29 Total archive numbers: 996
+2024-12-15 18:01:56,329 DEBUG: n.j:-1 - Module: Zynq-7000 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 27 Total archive numbers: 1003
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 13 Total archive numbers: 1016
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: Zynq-7000 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1016
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: Zynq UltraScale+ MPSoC Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 70 Total archive numbers: 1046
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: xilinx_zcu102_base platform dest: /tools/Xilinx/Vitis/2024.2/base_platforms Archive numbers in module: 1 Total archive numbers: 1047
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: xilinx_zcu104_base platform dest: /tools/Xilinx/Vitis/2024.2/base_platforms Archive numbers in module: 1 Total archive numbers: 1048
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: xilinx_zcu102_base_dfx platform dest: /tools/Xilinx/Vitis/2024.2/base_platforms Archive numbers in module: 1 Total archive numbers: 1049
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: Zynq UltraScale+ MPSoC dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1049
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: Zynq UltraScale+ RFSoC dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 36 Total archive numbers: 1068
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: SoCs dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1068
+2024-12-15 18:01:56,330 DEBUG: n.j:-1 - Module: Artix-7 Vivado dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 21 Total archive numbers: 1076
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 13 Total archive numbers: 1076
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: Artix-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1076
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: Kintex-7 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 20 Total archive numbers: 1083
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 13 Total archive numbers: 1083
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: Kintex-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1083
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: Spartan-7 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 19 Total archive numbers: 1087
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 13 Total archive numbers: 1087
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: Spartan-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1087
+2024-12-15 18:01:56,331 DEBUG: n.j:-1 - Module: Virtex-7 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 21 Total archive numbers: 1095
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 13 Total archive numbers: 1095
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: Virtex-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1095
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: 7 Series dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1095
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: Kintex UltraScale dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 34 Total archive numbers: 1106
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: Virtex UltraScale dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 26 Total archive numbers: 1119
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: UltraScale dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1119
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: Artix UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 28 Total archive numbers: 1133
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: Kintex UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 36 Total archive numbers: 1146
+2024-12-15 18:01:56,332 DEBUG: n.j:-1 - Module: Spartan UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 13 Total archive numbers: 1149
+2024-12-15 18:01:56,333 DEBUG: n.j:-1 - Module: Virtex UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 55 Total archive numbers: 1168
+2024-12-15 18:01:56,333 DEBUG: n.j:-1 - Module: Virtex UltraScale+ HBM dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 41 Total archive numbers: 1182
+2024-12-15 18:01:56,333 DEBUG: n.j:-1 - Module: Virtex UltraScale+ 58G dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 27 Total archive numbers: 1195
+2024-12-15 18:01:56,333 DEBUG: n.j:-1 - Module: UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1195
+2024-12-15 18:01:56,333 DEBUG: n.j:-1 - Module: Versal AI Core Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 28 Total archive numbers: 1197
+2024-12-15 18:01:56,333 DEBUG: n.j:-1 - Module: Cardano for Vitis dest: /tools/Xilinx/Vitis/2024.2/aietools Archive numbers in module: 71 Total archive numbers: 1268
+2024-12-15 18:01:56,333 DEBUG: n.j:-1 - Module: xilinx_vck190_base platform dest: /tools/Xilinx/Vitis/2024.2/base_platforms Archive numbers in module: 1 Total archive numbers: 1269
+2024-12-15 18:01:56,333 DEBUG: n.j:-1 - Module: xilinx_vck190_base_dfx platform dest: /tools/Xilinx/Vitis/2024.2/base_platforms Archive numbers in module: 1 Total archive numbers: 1270
+2024-12-15 18:01:56,334 DEBUG: n.j:-1 - Module: Shared Data dest: /tools/Xilinx/SharedData/2024.2 Archive numbers in module: 304 Total archive numbers: 1270
+2024-12-15 18:01:56,334 DEBUG: n.j:-1 - Module: Versal Vault Manifests dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 4 Total archive numbers: 1274
+2024-12-15 18:01:56,334 DEBUG: n.j:-1 - Module: Versal AI Core Series dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1274
+2024-12-15 18:01:56,334 DEBUG: n.j:-1 - Module: Versal Prime Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 28 Total archive numbers: 1274
+2024-12-15 18:01:56,334 DEBUG: n.j:-1 - Module: xilinx_vmk180_base platform dest: /tools/Xilinx/Vitis/2024.2/base_platforms Archive numbers in module: 1 Total archive numbers: 1275
+2024-12-15 18:01:56,334 DEBUG: n.j:-1 - Module: Shared Data dest: /tools/Xilinx/SharedData/2024.2 Archive numbers in module: 304 Total archive numbers: 1275
+2024-12-15 18:01:56,334 DEBUG: n.j:-1 - Module: Versal Vault Manifests dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 4 Total archive numbers: 1275
+2024-12-15 18:01:56,335 DEBUG: n.j:-1 - Module: Versal Prime Series dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1275
+2024-12-15 18:01:56,335 DEBUG: n.j:-1 - Module: Versal AI Edge Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 30 Total archive numbers: 1278
+2024-12-15 18:01:56,335 DEBUG: n.j:-1 - Module: Cardano for Vitis dest: /tools/Xilinx/Vitis/2024.2/aietools Archive numbers in module: 71 Total archive numbers: 1278
+2024-12-15 18:01:56,335 DEBUG: n.j:-1 - Module: xilinx_vek280_base platform dest: /tools/Xilinx/Vitis/2024.2/base_platforms Archive numbers in module: 1 Total archive numbers: 1279
+2024-12-15 18:01:56,335 DEBUG: n.j:-1 - Module: Shared Data dest: /tools/Xilinx/SharedData/2024.2 Archive numbers in module: 304 Total archive numbers: 1279
+2024-12-15 18:01:56,335 DEBUG: n.j:-1 - Module: Versal Vault Manifests dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 4 Total archive numbers: 1279
+2024-12-15 18:01:56,335 DEBUG: n.j:-1 - Module: Versal AI Edge Series dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1279
+2024-12-15 18:01:56,336 DEBUG: n.j:-1 - Module: Versal Premium Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 30 Total archive numbers: 1282
+2024-12-15 18:01:56,336 DEBUG: n.j:-1 - Module: Shared Data dest: /tools/Xilinx/SharedData/2024.2 Archive numbers in module: 304 Total archive numbers: 1282
+2024-12-15 18:01:56,336 DEBUG: n.j:-1 - Module: Versal Vault Manifests dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 4 Total archive numbers: 1282
+2024-12-15 18:01:56,336 DEBUG: n.j:-1 - Module: Versal Premium Series dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1282
+2024-12-15 18:01:56,336 DEBUG: n.j:-1 - Module: Versal HBM Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 26 Total archive numbers: 1284
+2024-12-15 18:01:56,336 DEBUG: n.j:-1 - Module: Shared Data dest: /tools/Xilinx/SharedData/2024.2 Archive numbers in module: 304 Total archive numbers: 1284
+2024-12-15 18:01:56,336 DEBUG: n.j:-1 - Module: Versal Vault Manifests dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 4 Total archive numbers: 1284
+2024-12-15 18:01:56,337 DEBUG: n.j:-1 - Module: Versal HBM Series dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1284
+2024-12-15 18:01:56,337 DEBUG: n.j:-1 - Module: Versal Gen 2 AI Edge Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 26 Total archive numbers: 1286
+2024-12-15 18:01:56,337 DEBUG: n.j:-1 - Module: Shared Data dest: /tools/Xilinx/SharedData/2024.2 Archive numbers in module: 304 Total archive numbers: 1286
+2024-12-15 18:01:56,337 DEBUG: n.j:-1 - Module: Versal Vault Manifests dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 4 Total archive numbers: 1286
+2024-12-15 18:01:56,337 DEBUG: n.j:-1 - Module: Versal Gen 2 AI Edge Series dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1286
+2024-12-15 18:01:56,337 DEBUG: n.j:-1 - Module: Versal Gen 2 Prime Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 26 Total archive numbers: 1288
+2024-12-15 18:01:56,338 DEBUG: n.j:-1 - Module: Shared Data dest: /tools/Xilinx/SharedData/2024.2 Archive numbers in module: 304 Total archive numbers: 1288
+2024-12-15 18:01:56,338 DEBUG: n.j:-1 - Module: Versal Vault Manifests dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 4 Total archive numbers: 1288
+2024-12-15 18:01:56,338 DEBUG: n.j:-1 - Module: Versal Gen 2 Prime Series dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 1288
+2024-12-15 18:01:56,343 DEBUG: n.j:-1 - Download archive numbers: 1007
+2024-12-15 18:01:56,346 DEBUG: n.j:-1 - Download archive numbers: 1007
+2024-12-15 18:01:56,352 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.eula.EULAsPanel, refKey: EULAPanel_Install
+2024-12-15 18:01:56,354 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.destination.DestinationPanel, refKey: DestinationPanel_Install
+2024-12-15 18:01:56,367 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.summary.SummaryPanel, refKey: SummaryPanel_Install
+2024-12-15 18:01:56,369 DEBUG: com.xilinx.installer.gui.q:-1 - Class to load: com.xilinx.installer.gui.panel.progress.ModernProgressPanel, refKey: ProgressPanel_Install
+2024-12-15 18:01:56,380 DEBUG: com.xilinx.installer.gui.InstallerGUI:-1 - Selected product: VitisProd package selected: Scout_Edition Hide Package Panel: true
+2024-12-15 18:01:56,383 INFO : com.xilinx.installer.gui.G:-1 - Started in: 5 Sec
+2024-12-15 18:01:56,552 DEBUG: j.b:-1 - Could not auto detect proxy settings
+2024-12-15 18:01:56,558 DEBUG: j.b:-1 - XILINX_URL is set to  https://www.xilinx.com/direct/swhelp
+2024-12-15 18:01:56,560 DEBUG: j.b:-1 - Will download https://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-12-15 18:01:56,561 DEBUG: j.l:-1 - Download to /tmp/TMP_LD_LIB_PATH2024-12-15-18-01-50-1734285710/1734285716552/installClientInfo.dat
+2024-12-15 18:01:56,561 DEBUG: j.l:-1 - File not exists or incomplete file /tmp/TMP_LD_LIB_PATH2024-12-15-18-01-50-1734285710/1734285716552/installClientInfo.dat,  deleting and starting download from scratch.
+2024-12-15 18:01:56,562 DEBUG: j.l:-1 - https download: https://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-12-15 18:01:57,566 DEBUG: j.l:-1 - Successfully downloaded https://www.xilinx.com/direct/swhelp/installClientInfo.dat. Downloaded 1006 bytes, elapsedTime: 0:0:0:0
+2024-12-15 18:01:57,566 INFO : j.b:-1 - Internet connection validated, can connect to internet.
+2024-12-15 18:01:57,566 DEBUG: j.b:-1 - Loading install client info from: /tmp/TMP_LD_LIB_PATH2024-12-15-18-01-50-1734285710/1734285716552/installClientInfo.dat
+2024-12-15 18:02:12,291 DEBUG: com.xilinx.installer.gui.panel.installtype.InstallationTypeTwoOptionsPanel:-1 - The install web client version 2024.2 is valid.
+2024-12-15 18:02:12,299 DEBUG: com.xilinx.installer.gui.y:-1 - Start to test user login with new setting
+2024-12-15 18:02:12,337 DEBUG: com.xilinx.installer.gui.y:-1 - testUserLoginWithNewSetting waiting for login results
+2024-12-15 18:02:12,338 DEBUG: com.xilinx.installer.gui.y$a:-1 - VALIDATE_LOGIN_CREDENTIALS
+2024-12-15 18:02:12,356 DEBUG: b.g:-1 - Post url (encrypted passwd): https://www.xilinx.com/bin/public/webinstall/sso/authenticator?xilinxUserId=aliah%40tcd.ie
+2024-12-15 18:02:13,559 DEBUG: b.g:-1 - rspStatusCode: 200 rspReason: OK
+2024-12-15 18:02:13,572 DEBUG: b.g:-1 - Authentication finally, close http client
+2024-12-15 18:02:13,606 DEBUG: com.xilinx.installer.gui.y:-1 - testUserLoginWithNewSetting got login results
+2024-12-15 18:02:13,607 DEBUG: com.xilinx.installer.gui.panel.installtype.InstallationTypeTwoOptionsPanel:-1 - The install web client version 2024.2 is valid.
+2024-12-15 18:02:25,179 DEBUG: com.xilinx.installer.gui.InstallerGUI:-1 - Selected product: VivadoProd package selected: VivadoDesignEdition_Web Hide Package Panel: false
+2024-12-15 18:02:40,239 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=VivadoWP]]
+2024-12-15 18:02:40,239 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=Vitis_HLS]]
+2024-12-15 18:02:40,239 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=VitisNetP4_Option]]
+2024-12-15 18:02:40,240 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=SoCs_WebPACK_DevModule]]
+2024-12-15 18:02:40,240 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=7_Series_Devices_WP]]
+2024-12-15 18:02:40,240 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=8_Series_Devices_WP]]
+2024-12-15 18:02:40,240 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=UltraScale_Plus_WP_DevModule]]
+2024-12-15 18:02:40,240 DEBUG: com.xilinx.installer.gui.panel.packages.simple.a:-1 - expand for moduleIDataEltDecorator [element=IDataElement [refKey=Versal_DevModule]]
+2024-12-15 18:02:40,250 DEBUG: n.j:-1 - Module: Vivado dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 198 Total archive numbers: 198
+2024-12-15 18:02:40,250 DEBUG: n.j:-1 - Module: Vitis HLS dest: /tools/Xilinx/Vitis_HLS/2024.2 Archive numbers in module: 4 Total archive numbers: 202
+2024-12-15 18:02:40,250 DEBUG: n.j:-1 - Module: Vitis C++ dest: /tools/Xilinx/Vitis/2024.2/vcxx Archive numbers in module: 3 Total archive numbers: 205
+2024-12-15 18:02:40,251 DEBUG: n.j:-1 - Module: Vitis for HLS dest: /tools/Xilinx/Vitis/2024.2 Archive numbers in module: 25 Total archive numbers: 230
+2024-12-15 18:02:40,251 DEBUG: n.j:-1 - Module: Adds Common Links dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 230
+2024-12-15 18:02:40,251 DEBUG: n.j:-1 - Module: System Generator dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 1 Total archive numbers: 231
+2024-12-15 18:02:40,251 DEBUG: n.j:-1 - Module: Model Composer dest: /tools/Xilinx/Model_Composer/2024.2 Archive numbers in module: 25 Total archive numbers: 256
+2024-12-15 18:02:40,251 DEBUG: n.j:-1 - Module: Vitis Model Composer(Toolbox for MATLAB and Simulink. Includes the functionality of System Generator for DSP) dest: /tools/Xilinx/Model_Composer/2024.2 Archive numbers in module: 0 Total archive numbers: 256
+2024-12-15 18:02:40,251 DEBUG: n.j:-1 - Module: DocNav dest: /tools/Xilinx/DocNav Archive numbers in module: 4 Total archive numbers: 260
+2024-12-15 18:02:40,251 DEBUG: n.j:-1 - Module: Xilinx Information Center dest: /tools/Xilinx/xic Archive numbers in module: 20 Total archive numbers: 280
+2024-12-15 18:02:40,251 DEBUG: n.j:-1 - Module: Install Devices for Kria SOMs and Starter Kits dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 29 Total archive numbers: 299
+2024-12-15 18:02:40,252 DEBUG: n.j:-1 - Module: Zynq-7000 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 20 Total archive numbers: 309
+2024-12-15 18:02:40,252 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 10 Total archive numbers: 319
+2024-12-15 18:02:40,252 DEBUG: n.j:-1 - Module: Zynq-7000 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 319
+2024-12-15 18:02:40,252 DEBUG: n.j:-1 - Module: Zynq UltraScale+ MPSoC dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 53 Total archive numbers: 343
+2024-12-15 18:02:40,252 DEBUG: n.j:-1 - Module: Artix-7 Vivado dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 19 Total archive numbers: 349
+2024-12-15 18:02:40,252 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 10 Total archive numbers: 349
+2024-12-15 18:02:40,253 DEBUG: n.j:-1 - Module: Artix-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 349
+2024-12-15 18:02:40,253 DEBUG: n.j:-1 - Module: Kintex-7 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 17 Total archive numbers: 353
+2024-12-15 18:02:40,253 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 10 Total archive numbers: 353
+2024-12-15 18:02:40,253 DEBUG: n.j:-1 - Module: Kintex-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 353
+2024-12-15 18:02:40,253 DEBUG: n.j:-1 - Module: Spartan-7 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 19 Total archive numbers: 357
+2024-12-15 18:02:40,253 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 10 Total archive numbers: 357
+2024-12-15 18:02:40,253 DEBUG: n.j:-1 - Module: Spartan-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 357
+2024-12-15 18:02:40,254 DEBUG: n.j:-1 - Module: Kintex UltraScale dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 23 Total archive numbers: 368
+2024-12-15 18:02:40,254 DEBUG: n.j:-1 - Module: Artix UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 28 Total archive numbers: 382
+2024-12-15 18:02:40,254 DEBUG: n.j:-1 - Module: Kintex UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 27 Total archive numbers: 386
+2024-12-15 18:02:40,254 DEBUG: n.j:-1 - Module: Virtex UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 28 Total archive numbers: 400
+2024-12-15 18:02:40,254 DEBUG: n.j:-1 - Module: Virtex UltraScale+ HBM dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 31 Total archive numbers: 417
+2024-12-15 18:02:40,254 DEBUG: n.j:-1 - Module: Virtex UltraScale+ 58G dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 20 Total archive numbers: 423
+2024-12-15 18:02:40,255 DEBUG: n.j:-1 - Download archive numbers: 393
+2024-12-15 18:02:40,256 DEBUG: n.j:-1 - Download archive numbers: 393
+2024-12-15 18:02:47,153 DEBUG: com.xilinx.installer.api.e:-1 - Load EULAs, package selected: WebPACKEdition_Web
+2024-12-15 18:02:47,155 DEBUG: com.xilinx.installer.api.e:-1 - Load EULAs, package selected: WebPACKEdition_Web
+2024-12-15 18:02:55,522 DEBUG: n.j:-1 - Module: Vivado dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 198 Total archive numbers: 198
+2024-12-15 18:02:55,523 DEBUG: n.j:-1 - Module: Vitis HLS dest: /tools/Xilinx/Vitis_HLS/2024.2 Archive numbers in module: 4 Total archive numbers: 202
+2024-12-15 18:02:55,524 DEBUG: n.j:-1 - Module: Vitis C++ dest: /tools/Xilinx/Vitis/2024.2/vcxx Archive numbers in module: 3 Total archive numbers: 205
+2024-12-15 18:02:55,524 DEBUG: n.j:-1 - Module: Vitis for HLS dest: /tools/Xilinx/Vitis/2024.2 Archive numbers in module: 25 Total archive numbers: 230
+2024-12-15 18:02:55,525 DEBUG: n.j:-1 - Module: Adds Common Links dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 230
+2024-12-15 18:02:55,525 DEBUG: n.j:-1 - Module: System Generator dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 1 Total archive numbers: 231
+2024-12-15 18:02:55,526 DEBUG: n.j:-1 - Module: Model Composer dest: /tools/Xilinx/Model_Composer/2024.2 Archive numbers in module: 25 Total archive numbers: 256
+2024-12-15 18:02:55,526 DEBUG: n.j:-1 - Module: Vitis Model Composer(Toolbox for MATLAB and Simulink. Includes the functionality of System Generator for DSP) dest: /tools/Xilinx/Model_Composer/2024.2 Archive numbers in module: 0 Total archive numbers: 256
+2024-12-15 18:02:55,527 DEBUG: n.j:-1 - Module: DocNav dest: /tools/Xilinx/DocNav Archive numbers in module: 4 Total archive numbers: 260
+2024-12-15 18:02:55,528 DEBUG: n.j:-1 - Module: Xilinx Information Center dest: /tools/Xilinx/xic Archive numbers in module: 20 Total archive numbers: 280
+2024-12-15 18:02:55,529 DEBUG: n.j:-1 - Module: Install Devices for Kria SOMs and Starter Kits dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 29 Total archive numbers: 299
+2024-12-15 18:02:55,529 DEBUG: n.j:-1 - Module: Zynq-7000 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 20 Total archive numbers: 309
+2024-12-15 18:02:55,530 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 10 Total archive numbers: 319
+2024-12-15 18:02:55,530 DEBUG: n.j:-1 - Module: Zynq-7000 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 319
+2024-12-15 18:02:55,531 DEBUG: n.j:-1 - Module: Zynq UltraScale+ MPSoC dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 53 Total archive numbers: 343
+2024-12-15 18:02:55,531 DEBUG: n.j:-1 - Module: Artix-7 Vivado dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 19 Total archive numbers: 349
+2024-12-15 18:02:55,532 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 10 Total archive numbers: 349
+2024-12-15 18:02:55,532 DEBUG: n.j:-1 - Module: Artix-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 349
+2024-12-15 18:02:55,533 DEBUG: n.j:-1 - Module: Kintex-7 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 17 Total archive numbers: 353
+2024-12-15 18:02:55,534 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 10 Total archive numbers: 353
+2024-12-15 18:02:55,534 DEBUG: n.j:-1 - Module: Kintex-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 353
+2024-12-15 18:02:55,535 DEBUG: n.j:-1 - Module: Spartan-7 Vivado Devices dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 19 Total archive numbers: 357
+2024-12-15 18:02:55,535 DEBUG: n.j:-1 - Module: ISE dest: /tools/Xilinx/Vivado/2024.2/ids_lite/ISE Archive numbers in module: 10 Total archive numbers: 357
+2024-12-15 18:02:55,535 DEBUG: n.j:-1 - Module: Spartan-7 dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 0 Total archive numbers: 357
+2024-12-15 18:02:55,536 DEBUG: n.j:-1 - Module: Kintex UltraScale dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 23 Total archive numbers: 368
+2024-12-15 18:02:55,536 DEBUG: n.j:-1 - Module: Artix UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 28 Total archive numbers: 382
+2024-12-15 18:02:55,537 DEBUG: n.j:-1 - Module: Kintex UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 27 Total archive numbers: 386
+2024-12-15 18:02:55,538 DEBUG: n.j:-1 - Module: Virtex UltraScale+ dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 28 Total archive numbers: 400
+2024-12-15 18:02:55,538 DEBUG: n.j:-1 - Module: Virtex UltraScale+ HBM dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 31 Total archive numbers: 417
+2024-12-15 18:02:55,538 DEBUG: n.j:-1 - Module: Virtex UltraScale+ 58G dest: /tools/Xilinx/Vivado/2024.2 Archive numbers in module: 20 Total archive numbers: 423
+2024-12-15 18:02:55,542 DEBUG: n.j:-1 - Download archive numbers: 393
+2024-12-15 18:02:55,546 DEBUG: n.j:-1 - Download archive numbers: 393
+2024-12-15 18:02:55,556 DEBUG: com.xilinx.installer.shortcuts.lin.XMLShortcutRoot:-1 - Checking shortcut file: /home/a/.config/menus/applications-merged/Xilinx Design Tools.menu
+2024-12-15 18:02:55,600 DEBUG: com.xilinx.installer.shortcuts.lin.XMLShortcutRoot:-1 - Checking shortcut file: /home/a/.config/menus/applications-merged/Xilinx Design Tools.menu
+2024-12-15 18:02:55,608 DEBUG: com.xilinx.installer.shortcuts.lin.XMLShortcutRoot:-1 - Checking shortcut file: /home/a/.config/menus/applications-merged/Xilinx Design Tools.menu
+2024-12-15 18:02:55,615 DEBUG: com.xilinx.installer.shortcuts.lin.XMLShortcutRoot:-1 - Checking shortcut file: /home/a/.config/menus/applications-merged/Xilinx Design Tools.menu
+2024-12-15 18:02:55,620 DEBUG: com.xilinx.installer.shortcuts.lin.XMLShortcutRoot:-1 - Checking shortcut file: /home/a/.config/menus/applications-merged/Xilinx Design Tools.menu
+2024-12-15 18:02:55,625 DEBUG: com.xilinx.installer.shortcuts.lin.XMLShortcutRoot:-1 - Checking shortcut file: /home/a/.config/menus/applications-merged/Xilinx Design Tools.menu
